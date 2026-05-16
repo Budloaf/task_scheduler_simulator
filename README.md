@@ -1,5 +1,4 @@
 # task_scheduler_simulator
-This is a copy of my project from Embedded Systems lab at University
 
 Hardware: ESP32, four pushbuttons (red, yellow, green, and blue), jumper wires
 Software: PlatformIO (VScode extension)
