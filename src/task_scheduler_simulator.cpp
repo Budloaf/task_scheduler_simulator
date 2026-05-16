@@ -1,4 +1,4 @@
-/*  Program:        Lab04
+/*  Program:        Task Scheduler Simulator
 **  Author:         Hayden Berry
 **  Created Date:   02/17/23
 **  Modified Date:  02/28/24
